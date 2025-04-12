@@ -1,0 +1,1 @@
+export const SMS_TEMPLATE = 'Hi. Your OTP is: {otp}'; 
