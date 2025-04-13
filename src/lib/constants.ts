@@ -10,9 +10,9 @@ export const SAMPLE_CONTACTS: Contact[] = [
   },
   {
     id: '2',
-    firstName: 'Jane',
-    lastName: 'Smith',
-    phoneNumber: '+919810153261',
+    firstName: 'Chemical',
+    lastName: 'Myth',
+    phoneNumber: '+917498147939',
     email: 'jane.smith@example.com'
   },
   {
